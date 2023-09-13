@@ -1,0 +1,21 @@
+2- Primeiro criei no Github um repositorio "Disciplinasuniesp"
+Comando usado para clonas tudo para o local(PC) Kevinho@LAB12MAQ11 MINGW64 ~/Documents/disciplinauniesp (main)
+$ git clone https://github.com/Kevinmpl/disciplinauniesp.git
+
+
+3- Comando usado para entrar na pasta "Kevinho@LAB12MAQ11 MINGW64 ~/Documents/disciplinauniesp (main)
+$ cd disciplinauniesp/"
+
+5- comando usado para listar os arquivos "Kevinho@LAB12MAQ11 MINGW64 ~/Documents/disciplinauniesp (main) $ ls
+Arquivo1.txt  Arquivo1.txt.bak  Arquivo2.txt  Arquivo2.txt.bak  Arquivo3.txt  Arquivo3.txt.bak  LICENSE  README.md"
+
+6- Comando usado para ver os status dos arquivos "Kevinho@LAB12MAQ11 MINGW64 ~/Documents/disciplinauniesp (main)
+$ git status"
+7 - Comando usado para adicionar para area de STAGED "Kevinho@LAB12MAQ11 MINGW64 ~/Documents/disciplinauniesp (main)
+$ git add ."
+8 - Comando usao para dar o Commit "Kevinho@LAB12MAQ11 MINGW64 ~/Documents/disciplinauniesp (main)
+$ git commit -m "Meu Primeiro Commit""
+9- Comando usado para puxar os aqruivos de STAGED "Kevinho@LAB12MAQ11 MINGW64 ~/Documents/disciplinauniesp (main)
+$ git push origin main"
+10 - Usado para ver se tem algum arquivo no STAGED "Kevinho@LAB12MAQ11 MINGW64 ~/Documents/disciplinauniesp (main)
+$ git status"
